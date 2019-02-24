@@ -1,9 +1,9 @@
 ## Nikolay Kroshko
 ### Contacts
 email: kolia_kroshko@ukr.net<br>
-linkedIn: https://www.linkedin.com/in/mikola-kroshko-472223128/<br>
+linkedIn: [https://www.linkedin.com/in/mikola-kroshko-472223128/](https://www.linkedin.com/in/mikola-kroshko-472223128/)<br>
 skype: kolia_kroshko<br>
-facebook: https://www.facebook.com/profile.php?id=100007004975837
+facebook: [https://www.facebook.com/profile.php?id=100007004975837](https://www.facebook.com/profile.php?id=100007004975837)
 
 ### Goals on RS School course
 
@@ -69,15 +69,10 @@ Master in Automated Control of Technological Processes
 #### Courses
 - "Web-development. Basics" classes at Ignite Outsourcing in cooperation with Zhytomyr State Technological University (04.2015-06.2016)<br>
 - Online course "Web Development for Advanced" at LoftSchool (09.2016-16.11.2016)<br>
-https://loftschool.com/certificate/VM70372067578/en
+[https://loftschool.com/certificate/VM70372067578/en](https://loftschool.com/certificate/VM70372067578/en)
 
 ### Languages
 
 - Ukrainian - native;
 - Russian - bilingual;
 - English - upper-intermediate.
-
-### Related Links
-
-- LinkedIn:	https://www.linkedin.com/in/mikola-kroshko-472223128/
-- GitHub: https://github.com/KroshkoNikolay
